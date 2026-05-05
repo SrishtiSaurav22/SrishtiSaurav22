@@ -1,5 +1,5 @@
 # Hi, I'm Srishti 👋
-### A quiet blend of a budding software developer and a chaotic artist!
+### A quiet blend of a budding software developer and a chaotic artist ✨
 
 ## Resume
 
