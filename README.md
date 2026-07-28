@@ -5,7 +5,7 @@
 
 📄 [View My Resume](https://srishtisaurav22.github.io/SrishtiSaurav22/)
 
-⬇️ [Download Resume PDF](https://github.com/SrishtiSaurav22/SrishtiSaurav22/blob/main/resume_Srishti_Saurav.pdf)
+⬇️ [Download Resume PDF](https://github.com/SrishtiSaurav22/SrishtiSaurav22/blob/main/resume_Srishti_Saurav_updated.pdf)
 
 ## LinkedIn
 
