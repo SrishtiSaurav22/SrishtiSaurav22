@@ -1,5 +1,14 @@
 # Hi, I'm Srishti 👋
-### A quiet blend of a budding software developer and a chaotic artist ✨
+### A quiet blend of a budding engineer and a chaotic artist ✨
+
+Cloud & Platform Engineer with hands-on experience supporting distributed data systems — OpenSearch, Apache Kafka, and Kinesis/Flink — on AWS managed infrastructure. 
+
+Resolved 350+ production issues involving streaming pipeline failures, cluster health degradation, and data ingestion errors, with a 5/5 customer satisfaction rating throughout.
+
+Building on that foundation with backend and systems engineering: FastAPI, PostgreSQL, event-driven architectures with Kafka, and full-text search with OpenSearch. Comfortable in Python, Dart/Flutter, Bash, C/C++.
+
+Currently focused on distributed systems, cloud infrastructure, and reliable backend design.
+
 
 ## Resume
 
